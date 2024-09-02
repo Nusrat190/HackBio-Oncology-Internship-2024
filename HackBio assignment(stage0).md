@@ -1,4 +1,4 @@
-**                                        HackBio**
+            HackBio
 
 **Track 3: Data Science & Machine Learning**
 
@@ -56,9 +56,7 @@ Description automatically generated](file:///C:/Users/User/AppData/Local/Temp/ms
 
  
 
-The [**cBioPortal**](https://www.cbioportal.org/), established by Memorial Sloan Kettering Cancer Center was specifically designed to lower the barriers of access to the complex data sets for Cancer Genomics  . The Centre for Molecular Oncology at MSK hosts the public cBioPortal website. The software is
-
-now developed and maintained by a multi-institutional team, consisting of MSK, the Dana Farber Cancer Institute, Princess Margaret Cancer Centre in Toronto, Children's Hospital of Philadelphia, Caris Life Sciences, The Hyve and SE4BIO in the Netherlands, and Bilkent University in Ankara, Turkey. Non-synonymous mutations, DNA copy-number data (putative, discrete values per gene, e.g. "deeply deleted" or "amplified", as well as log2 or linear copy number data), mRNA and microRNA expression data, protein-level and phosphoprotein-level data (mass spectrometry-based), DNA methylation data, and de-identified clinical data are all supported and stored by the portal. The website offers graphical summaries of gene-level data from several platforms, network visualization and analysis, survival analysis, patient-specific inquiries, and software programmatic access. The portal's user-friendly Web interface allows researchers and physicians to access complicated cancer genomes profiles without requiring bioinformatics skills, thus accelerating biological discoveries.
+The [**cBioPortal**](https://www.cbioportal.org/), established by Memorial Sloan Kettering Cancer Center was specifically designed to lower the barriers of access to the complex data sets for Cancer Genomics  . The Centre for Molecular Oncology at MSK hosts the public cBioPortal website. The software is now developed and maintained by a multi-institutional team, consisting of MSK, the Dana Farber Cancer Institute, Princess Margaret Cancer Centre in Toronto, Children's Hospital of Philadelphia, Caris Life Sciences, The Hyve and SE4BIO in the Netherlands, and Bilkent University in Ankara, Turkey. Non-synonymous mutations, DNA copy-number data (putative, discrete values per gene, e.g. "deeply deleted" or "amplified", as well as log2 or linear copy number data), mRNA and microRNA expression data, protein-level and phosphoprotein-level data (mass spectrometry-based), DNA methylation data, and de-identified clinical data are all supported and stored by the portal. The website offers graphical summaries of gene-level data from several platforms, network visualization and analysis, survival analysis, patient-specific inquiries, and software programmatic access. The portal's user-friendly Web interface allows researchers and physicians to access complicated cancer genomes profiles without requiring bioinformatics skills, thus accelerating biological discoveries.
 
  
 
