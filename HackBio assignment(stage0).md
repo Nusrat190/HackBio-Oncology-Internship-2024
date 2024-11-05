@@ -48,14 +48,11 @@ Description automatically generated](file:///C:/Users/User/AppData/Local/Temp/ms
 
 The [**cBioPortal**](https://www.cbioportal.org/), established by Memorial Sloan Kettering Cancer Center was specifically designed to lower the barriers of access to the complex data sets for Cancer Genomics  . The Centre for Molecular Oncology at MSK hosts the public cBioPortal website. The software is now developed and maintained by a multi-institutional team, consisting of MSK, the Dana Farber Cancer Institute, Princess Margaret Cancer Centre in Toronto, Children's Hospital of Philadelphia, Caris Life Sciences, The Hyve and SE4BIO in the Netherlands, and Bilkent University in Ankara, Turkey. Non-synonymous mutations, DNA copy-number data (putative, discrete values per gene, e.g. "deeply deleted" or "amplified", as well as log2 or linear copy number data), mRNA and microRNA expression data, protein-level and phosphoprotein-level data (mass spectrometry-based), DNA methylation data, and de-identified clinical data are all supported and stored by the portal. The website offers graphical summaries of gene-level data from several platforms, network visualization and analysis, survival analysis, patient-specific inquiries, and software programmatic access. The portal's user-friendly Web interface allows researchers and physicians to access complicated cancer genomes profiles without requiring bioinformatics skills, thus accelerating biological discoveries.
 
- 
-
  <!--[if gte vml 1]><v:shape
  id="Picture_x0020_2" o:spid="_x0000_i1027" type="#_x0000_t75" style='width:451pt;
  height:222.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png"
-  o:title=""/>
-</v:shape><![endif]--><!--[if !vml]-->![](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)<!--[endif]-->
+  o:title=""/> </v:shape><![endif]--><!--[if !vml]-->![](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)<!--[endif]-->
 
 The Human Genome Browser at [**UCSC** **(University of California Santa Cruz)** ](https://genome.ucsc.edu/) acts as a portal for displaying various genomic features, including gene predictions, alignments, polymorphisms, and more. The website provides a user-friendly visual interface for genomic data, aligning annotation tracks with genome coordinates to allow for quick and easy correlation of different data types. Many tracks are contributed by global scientists, while others are created by the UCSC Genome Bioinformatics group utilizing public sequences. Users can also upload and visualize their own data using custom tracks.
 
