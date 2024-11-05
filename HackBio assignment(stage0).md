@@ -8,8 +8,6 @@
 
 A database is considered cancer-related if its content is primarily focused on the topic of cancer. These databases often include cancer-specific data, such as genetic data, molecular profiles, clinical information, and other datasets. As an example,
 
- 
-
 [**The Cancer Genome Atlas (TCGA)**](https://www.cancer.gov/ccg/research/genome-sequencing/tcga) is a well-known cancer-related database that discusses genetic and molecular events in detail. The National Institutes of Health (NIH) founded TCGA to uncover major genomic changes, and it now contains over 11,000 cases across 33 tumor types, offering a massive dataset of molecular alterations. This effort brought together researchers from many domains. approximately a 12-year period, TCGA generated almost 2.5 petabytes of multi-omics data, dramatically improving cancer diagnosis, treatment, and prevention. The research community continues to have access to this vital data. In one study, The TCGA categorized endometrial cancers into four molecular subgroups based on clinical outcomes and treatment responses.
 
 <!--[if gte vml 1]><v:shapetype
@@ -48,13 +46,6 @@ A database is considered cancer-related if its content is primarily focused on t
 
 Description automatically generated](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)<!--[endif]-->
 
- 
-
- 
-
- 
-
- 
 
 The [**cBioPortal**](https://www.cbioportal.org/), established by Memorial Sloan Kettering Cancer Center was specifically designed to lower the barriers of access to the complex data sets for Cancer Genomics  . The Centre for Molecular Oncology at MSK hosts the public cBioPortal website. The software is now developed and maintained by a multi-institutional team, consisting of MSK, the Dana Farber Cancer Institute, Princess Margaret Cancer Centre in Toronto, Children's Hospital of Philadelphia, Caris Life Sciences, The Hyve and SE4BIO in the Netherlands, and Bilkent University in Ankara, Turkey. Non-synonymous mutations, DNA copy-number data (putative, discrete values per gene, e.g. "deeply deleted" or "amplified", as well as log2 or linear copy number data), mRNA and microRNA expression data, protein-level and phosphoprotein-level data (mass spectrometry-based), DNA methylation data, and de-identified clinical data are all supported and stored by the portal. The website offers graphical summaries of gene-level data from several platforms, network visualization and analysis, survival analysis, patient-specific inquiries, and software programmatic access. The portal's user-friendly Web interface allows researchers and physicians to access complicated cancer genomes profiles without requiring bioinformatics skills, thus accelerating biological discoveries.
 
@@ -68,11 +59,6 @@ The [**cBioPortal**](https://www.cbioportal.org/), established by Memorial Sloan
 </v:shape><![endif]--><!--[if !vml]-->![](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)<!--[endif]-->
 
  
-
- 
-
- 
-
 The Human Genome Browser at [**UCSC** **(University of California Santa Cruz)** ](https://genome.ucsc.edu/) acts as a portal for displaying various genomic features, including gene predictions, alignments, polymorphisms, and more. The website provides a user-friendly visual interface for genomic data, aligning annotation tracks with genome coordinates to allow for quick and easy correlation of different data types. Many tracks are contributed by global scientists, while others are created by the UCSC Genome Bioinformatics group utilizing public sequences. Users can also upload and visualize their own data using custom tracks.
 
 <!--[if gte vml 1]><v:shape id="Picture_x0020_5" o:spid="_x0000_i1026"
@@ -83,11 +69,6 @@ The Human Genome Browser at [**UCSC** **(University of California Santa Cruz)** 
 </v:shape><![endif]--><!--[if !vml]-->![](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)<!--[endif]-->
 
  
-
- 
-
- 
-
 The [**National Cancer Institute Genomic Data Commons (GDC)**](https://gdc.cancer.gov/) is another prominent cancer database that stores, analyses, and shares genetic and clinical data from cancer patients. The GDC seeks to generalize access to cancer genomic data and encourage data sharing among researchers. The GDC helps advance cancer diagnosis and treatment by making precision medicine approaches easier to apply. OpenGDC, derived from the GDC, builds on the existing platform by including the Genomic Data Model. It adds new genomic data in Browser Extensible Data (BED) format and offers associated information in a table-limited key-value format. It improves the efficiency of retrieving genomic and clinical data while also increasing the quantity of information available for analysis.&#x20;
 
  
@@ -101,11 +82,6 @@ The [**National Cancer Institute Genomic Data Commons (GDC)**](https://gdc.cance
 
 Description automatically generated](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)<!--[endif]-->
 
- 
-
- 
-
- 
 
 The [**Catalogue of Somatic Mutations in Cancer** **(COSMIC)**](https://cancer.sanger.ac.uk/cosmic/) database is another valuable resource that stores somatic mutation data and related information about human cancer . Since 2004, COSMIC has integrated coding mutations into its database, covering various genetic mechanisms through which somatic mutations contribute to cancer development. These mechanisms include non-coding mutations, gene fusions, copy-number variants, and drug resistance mutations. Additionally, the COSMIC website provides users with
 
@@ -127,9 +103,6 @@ the ability to visualize the 3D structure of proteins. In one of the research fi
 </v:shape><![endif]--><!--[if !vml]-->![A screenshot of a computer
 
 Description automatically generated](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)<!--[endif]-->
-
- 
-
 **References**
 
 ** **
