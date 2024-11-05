@@ -62,11 +62,7 @@ The Human Genome Browser at [**UCSC** **(University of California Santa Cruz)** 
  <v:imagedata src="file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png"
   o:title=""/>
 </v:shape><![endif]--><!--[if !vml]-->![](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)<!--[endif]-->
-
- 
 The [**National Cancer Institute Genomic Data Commons (GDC)**](https://gdc.cancer.gov/) is another prominent cancer database that stores, analyses, and shares genetic and clinical data from cancer patients. The GDC seeks to generalize access to cancer genomic data and encourage data sharing among researchers. The GDC helps advance cancer diagnosis and treatment by making precision medicine approaches easier to apply. OpenGDC, derived from the GDC, builds on the existing platform by including the Genomic Data Model. It adds new genomic data in Browser Extensible Data (BED) format and offers associated information in a table-limited key-value format. It improves the efficiency of retrieving genomic and clinical data while also increasing the quantity of information available for analysis.&#x20;
-
- 
 
 <!--[if gte vml 1]><v:shape id="Picture_x0020_1" o:spid="_x0000_i1025"
  type="#_x0000_t75" alt="A screenshot of a computer&#10;&#10;Description automatically generated"
@@ -76,12 +72,7 @@ The [**National Cancer Institute Genomic Data Commons (GDC)**](https://gdc.cance
 </v:shape><![endif]--><!--[if !vml]-->![A screenshot of a computer
 
 Description automatically generated](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)<!--[endif]-->
-
-The [**Catalogue of Somatic Mutations in Cancer** **(COSMIC)**](https://cancer.sanger.ac.uk/cosmic/) database is another valuable resource that stores somatic mutation data and related information about human cancer . Since 2004, COSMIC has integrated coding mutations into its database, covering various genetic mechanisms through which somatic mutations contribute to cancer development. These mechanisms include non-coding mutations, gene fusions, copy-number variants, and drug resistance mutations. Additionally, the COSMIC website provides users with
-
-the ability to visualize the 3D structure of proteins. In one of the research findings using COSMIC helped to the discovery that most melanoma cases contain specific mutations in the BRAF gene, which led to the development of BRAF inhibitors as an effective therapeutic option. However, these BRAF mutations are uncommon in hereditary melanomas, which account for only 10% of cases, and almost all BRAF mutations in melanoma are missense variations.
-
- 
+The [**Catalogue of Somatic Mutations in Cancer** **(COSMIC)**](https://cancer.sanger.ac.uk/cosmic/) database is another valuable resource that stores somatic mutation data and related information about human cancer . Since 2004, COSMIC has integrated coding mutations into its database, covering various genetic mechanisms through which somatic mutations contribute to cancer development. These mechanisms include non-coding mutations, gene fusions, copy-number variants, and drug resistance mutations. Additionally, the COSMIC website provides users with the ability to visualize the 3D structure of proteins. In one of the research findings using COSMIC helped to the discovery that most melanoma cases contain specific mutations in the BRAF gene, which led to the development of BRAF inhibitors as an effective therapeutic option. However, these BRAF mutations are uncommon in hereditary melanomas, which account for only 10% of cases, and almost all BRAF mutations in melanoma are missense variations.
 
 <!--[if gte vml 1]><v:shape
  id="Picture_x0020_3" o:spid="_x0000_s1026" type="#_x0000_t75" alt="A screenshot of a computer&#10;&#10;Description automatically generated"
