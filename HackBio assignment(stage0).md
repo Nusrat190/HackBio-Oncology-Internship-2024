@@ -46,7 +46,6 @@ A database is considered cancer-related if its content is primarily focused on t
 
 Description automatically generated](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)<!--[endif]-->
 
-
 The [**cBioPortal**](https://www.cbioportal.org/), established by Memorial Sloan Kettering Cancer Center was specifically designed to lower the barriers of access to the complex data sets for Cancer Genomics  . The Centre for Molecular Oncology at MSK hosts the public cBioPortal website. The software is now developed and maintained by a multi-institutional team, consisting of MSK, the Dana Farber Cancer Institute, Princess Margaret Cancer Centre in Toronto, Children's Hospital of Philadelphia, Caris Life Sciences, The Hyve and SE4BIO in the Netherlands, and Bilkent University in Ankara, Turkey. Non-synonymous mutations, DNA copy-number data (putative, discrete values per gene, e.g. "deeply deleted" or "amplified", as well as log2 or linear copy number data), mRNA and microRNA expression data, protein-level and phosphoprotein-level data (mass spectrometry-based), DNA methylation data, and de-identified clinical data are all supported and stored by the portal. The website offers graphical summaries of gene-level data from several platforms, network visualization and analysis, survival analysis, patient-specific inquiries, and software programmatic access. The portal's user-friendly Web interface allows researchers and physicians to access complicated cancer genomes profiles without requiring bioinformatics skills, thus accelerating biological discoveries.
 
  
@@ -58,7 +57,6 @@ The [**cBioPortal**](https://www.cbioportal.org/), established by Memorial Sloan
   o:title=""/>
 </v:shape><![endif]--><!--[if !vml]-->![](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)<!--[endif]-->
 
- 
 The Human Genome Browser at [**UCSC** **(University of California Santa Cruz)** ](https://genome.ucsc.edu/) acts as a portal for displaying various genomic features, including gene predictions, alignments, polymorphisms, and more. The website provides a user-friendly visual interface for genomic data, aligning annotation tracks with genome coordinates to allow for quick and easy correlation of different data types. Many tracks are contributed by global scientists, while others are created by the UCSC Genome Bioinformatics group utilizing public sequences. Users can also upload and visualize their own data using custom tracks.
 
 <!--[if gte vml 1]><v:shape id="Picture_x0020_5" o:spid="_x0000_i1026"
@@ -81,7 +79,6 @@ The [**National Cancer Institute Genomic Data Commons (GDC)**](https://gdc.cance
 </v:shape><![endif]--><!--[if !vml]-->![A screenshot of a computer
 
 Description automatically generated](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)<!--[endif]-->
-
 
 The [**Catalogue of Somatic Mutations in Cancer** **(COSMIC)**](https://cancer.sanger.ac.uk/cosmic/) database is another valuable resource that stores somatic mutation data and related information about human cancer . Since 2004, COSMIC has integrated coding mutations into its database, covering various genetic mechanisms through which somatic mutations contribute to cancer development. These mechanisms include non-coding mutations, gene fusions, copy-number variants, and drug resistance mutations. Additionally, the COSMIC website provides users with
 
@@ -107,24 +104,10 @@ Description automatically generated](file:///C:/Users/User/AppData/Local/Temp/ms
 
 ** **
 
-Austin, B. K., Firooz, A., Valafar, H., & Blenda, A. V. (2023). An Updated Overview of Existing Cancer Databases and Identified Needs. _Biology_, _12_(8), 1152.
-
-_These Tumor Databases You Have To Know_, 2 Sept. 2024, <https://www.cusabio.com/c-20916.html>.
-
- 
-
-<https://www.cancer.gov/ccg/research/genome-sequencing/tcga>
-
- 
+Austin, B. K., Firooz, A., Valafar, H., & Blenda, A. V. (2023). An Updated Overview of Existing Cancer Databases and Identified Needs. _Biology_, _12_(8), 1152_These Tumor Databases You Have To Know_, 2 Sept. 2024, <https://www.cusabio.com/c-20916.html> <https://www.cancer.gov/ccg/research/genome-sequencing/tcga>
 
 Kandoth, C., Schultz, N., Cherniack, A. D., Akbani, R., Liu, Y., Shen, H., ... & Levine, D. A. (2013). Integrated genomic characterization of endometrial carcinoma. _Nature, 497_(7447), 67-73.
 
-Gao, J., Aksoy, B. A., Dogrusoz, U., Dresdner, G., Gross, B., Sumer, S. O., Sun, Y., Jacobsen, A., Sinha, R., Larsson, E., Cerami, E., Sander, C., & Schultz, N. (2013).
+Gao, J., Aksoy, B. A., Dogrusoz, U., Dresdner, G., Gross, B., Sumer, S. O., Sun, Y., Jacobsen, A., Sinha, R., Larsson, E., Cerami, E., Sander, C., & Schultz, N. (2013).Integrative analysis of complex cancer genomics and clinical profiles using the cBioPortal. _Science signaling_, _6_(269), pl1. https\://doi.org/10.1126/scisignal.2004088.
 
- 
-
-Integrative analysis of complex cancer genomics and clinical profiles using the cBioPortal. _Science signaling_, _6_(269), pl1. https\://doi.org/10.1126/scisignal.2004088.
-
- 
-
-Castellani G, Buccarelli M, Arasi MB, Rossi S, Pisanu ME, Bellenghi M, Lintas C, Tabolacci C. BRAF Mutations in Melanoma: Biological Aspects, Therapeutic Implications, and Circulating Biomarkers. Cancers (Basel). 2023 Aug 8;15(16):4026. doi: 10.3390/cancers15164026. PMID: 37627054; PMCID: PMC10452867.
+ Castellani G, Buccarelli M, Arasi MB, Rossi S, Pisanu ME, Bellenghi M, Lintas C, Tabolacci C. BRAF Mutations in Melanoma: Biological Aspects, Therapeutic Implications, and Circulating Biomarkers. Cancers (Basel). 2023 Aug 8;15(16):4026. doi: 10.3390/cancers15164026. PMID: 37627054; PMCID: PMC10452867.
